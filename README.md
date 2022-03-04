@@ -1,7 +1,4 @@
 # Android-Flag-Kit
-[![](https://jitpack.io/v/KaKaVip/Android-Flag-Kit.svg)](https://jitpack.io/#KaKaVip/Android-Flag-Kit)
-
-Free Resource from https://dribbble.com/shots/2828120-All-Flags-Freebie-Flag-Kit
 
 ####  Step 1. Add the JitPack repository to your build file
 
